@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Sky Watchers",
+        "live": "https://app.herokuapp.com/whatever",
+        "git": "https://github.com/Jeal3R5/unit-1-project",
+        "image": "https://imgur.com/624F1Ni"
+    }, 
+    {
+        "name": "Bored App",
+        "live": "https://bored-app-jr.herokuapp.com/activities",
+        "git": "https://github.com/Jeal3R5/boredApp",
+        "image": "https://imgur.com/812mIVX"
+    }
+    
+]
